@@ -1,8 +1,11 @@
 # OSINT v3 Package
 
 git clone https://github.com/spyschools/osint-indonesiav3.git
+
 cd osint-indonesiav3
+
 pip3 install requests beautifulsoup4
+
 python3 osint_v3.py 3275124308050003 +6281234567890
 
 Files:
