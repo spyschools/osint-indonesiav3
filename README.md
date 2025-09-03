@@ -26,3 +26,5 @@ Output:
 Notes:
 - Google scraping dapat rate-limit; gunakan bijak.
 - Jika API wilayah.id berubah, generator bisa gagal; kamu bisa isi kode_wilayah.json manual.
+- gunakan tools ini dengan bijak, tools ini hanya untuk pengetesan dan pengembangan
+
